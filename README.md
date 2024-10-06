@@ -15,6 +15,7 @@ J.A.R.V.I.S is a personal virtual assistant built using Python. It can perform v
 
 ## Requirements
 -  Current Python version or use  platforms like VS Code or jupyter
+-  You must have stable network connection as pywhatkit does not run offline
 - Libraries:
   - `speech_recognition`
   - `pyttsx3`
@@ -32,10 +33,18 @@ Google Speech Recognition
 pywhatkit
 ## Weather forecast of any specified city:
   ## Note: Generate Api key from (https://openweathermap.org/api)
+  ## Written Mode:
 ![image](https://github.com/user-attachments/assets/989f5d87-6b71-4e77-940e-ea06b293881d)
+   ## Speech Mode:
+   ![image](https://github.com/user-attachments/assets/7643ffee-c730-45a1-8506-53047e82b24e)
+
 ## Playing Youtube videos based on user's Instruction:
 ![image](https://github.com/user-attachments/assets/a61088ed-dc8e-44b4-aa46-197a6e44c127)
 ![image](https://github.com/user-attachments/assets/0f82a722-56a0-4e2d-b513-37456a271f51)
+## Speech Mode:
+![image](https://github.com/user-attachments/assets/b6bdec1d-e724-4d57-a90d-79e7ba870a28)
+![image](https://github.com/user-attachments/assets/2f525850-c7ce-42a6-a5e7-d8a2165e3ded)
+
 ## Date and Time:
  ![image](https://github.com/user-attachments/assets/f76b1af8-5ab1-468b-9951-a6ee179e5a96)
  ![image](https://github.com/user-attachments/assets/2de8e59a-e609-4341-9c3e-563b98c6b34c)
