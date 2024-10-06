@@ -23,6 +23,7 @@ J.A.R.V.I.S is a personal virtual assistant built using Python. It can perform v
   - `wikipedia`
   - `requests`
   - `googletrans` (for translation functionality, if added)
+  - API key for weather forecast : https://openweathermap.org/api
 ## Acknowledgements
 OpenWeatherMap
 Wikipedia API
@@ -30,6 +31,7 @@ Google Speech Recognition
 
 pywhatkit
 ## Weather forecast of any specified city:
+  ## Note: Generate Api key from (https://openweathermap.org/api)
 ![image](https://github.com/user-attachments/assets/989f5d87-6b71-4e77-940e-ea06b293881d)
 ## Playing Youtube videos based on user's Instruction:
 ![image](https://github.com/user-attachments/assets/a61088ed-dc8e-44b4-aa46-197a6e44c127)
@@ -47,8 +49,21 @@ pywhatkit
    ![image](https://github.com/user-attachments/assets/1848e6fe-704c-41e2-8bbe-cde67794316b)
   ## Audio file: (paste the following link in url) 
    https://drive.google.com/file/d/1EUzPZpYKfNtgqG45K38ZvprbGCk6rXlM/view?usp=sharing
- ## Whatsapp Automated messages:
-  ## Note: User has to login in Whatsapp in web mode and provide min time limit and wait:
+
+
+### WhatsApp Automated Messages
+
+**Note:** Users must log in to WhatsApp in web mode and allow a minimum waiting time. Messages can only be sent in written mode. 
+**Messaging to Individuals:** Please provide the recipient's phone number.
+![image](https://github.com/user-attachments/assets/4926f2cb-f852-4ef6-bc32-22615cd10687)
+
+
+![image](https://github.com/user-attachments/assets/9f13c217-2a83-4844-9117-b770ee5a3a95)
+
+
+  
+   
+       
   
     
 
