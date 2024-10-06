@@ -80,7 +80,8 @@ pywhatkit
 **Note:** The virtual assistant can provide summaries of notable individuals from Wikipedia. By default it searches with the full name of the person so please provide full name not nickname especially in written mode
 
 **Usage:** Simply ask about a person by saying "Who is [Name]?" or typing it in written mode to receive a concise summary.
-## Speech Mode:![image](https://github.com/user-attachments/assets/8ab1f35a-a3af-4dca-9841-a5ba3393eec0)
+## Speech Mode:
+![image](https://github.com/user-attachments/assets/8ab1f35a-a3af-4dca-9841-a5ba3393eec0)
 ## Written Mode:
 ![image](https://github.com/user-attachments/assets/1606fc5b-951b-4024-aeaf-07c7923effc8)
 
