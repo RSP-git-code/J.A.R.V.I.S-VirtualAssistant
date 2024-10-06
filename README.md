@@ -58,6 +58,17 @@ pywhatkit
 ![image](https://github.com/user-attachments/assets/4926f2cb-f852-4ef6-bc32-22615cd10687)
 ![image](https://github.com/user-attachments/assets/9f13c217-2a83-4844-9117-b770ee5a3a95)
 
+### Messaging to Groups
+
+**Note:** Users must log in to WhatsApp in web mode and allow a minimum waiting time. Messages can only be sent in written mode.
+
+**Messaging to Groups:** Please provide the name of the group you wish to message.
+![image](https://github.com/user-attachments/assets/96e6f3b1-5b9e-4af4-8195-3b5f7ccf1dbf)
+![image](https://github.com/user-attachments/assets/92bee17b-c3f3-4acb-ad88-be42b9bae185)
+
+
+
+
 
   
    
