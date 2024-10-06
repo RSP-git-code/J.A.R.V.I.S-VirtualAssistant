@@ -100,7 +100,7 @@ def jarvis_play():
         print("Can you please repeat?")
 # Function to get weather information with humorous precautions
 def get_weather(city):
-    API_KEY = "297bd30dbe568bc8effcb845a883ea5a"  
+    API_KEY = #Enter the generated API key   
     BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
     complete_url = BASE_URL + "q=" + city + "&appid=" + API_KEY + "&units=metric"
     try:
