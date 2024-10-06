@@ -25,9 +25,7 @@ J.A.R.V.I.S is a personal virtual assistant built using Python. It can perform v
   - `googletrans` (for translation functionality, if added)
 ## Acknowledgements
 OpenWeatherMap
-
 Wikipedia API
-
 Google Speech Recognition
 
 pywhatkit
@@ -43,7 +41,20 @@ pywhatkit
    for this you  have to import Translator.py and translate function
    ## english to hindi:
    ![image](https://github.com/user-attachments/assets/c8382fd6-cbcb-41ee-a178-593ab0d9e69f)
-   --Audio file:C:\Users\RIYA\OneDrive\Desktop\VS Code Quickstart\translated_output.mp3
+   ##Audio file: (paste the following link in url)
+   https://drive.google.com/file/d/1DHcK3DjFfQ_XH5p9kUe3TwLh6izRra3j/view?usp=sharing 
+   ##any language to english:
+   ![image](https://github.com/user-attachments/assets/1848e6fe-704c-41e2-8bbe-cde67794316b)
+   ##Audio file:(paste the following link in url)
+   https://drive.google.com/file/d/1EUzPZpYKfNtgqG45K38ZvprbGCk6rXlM/view?usp=sharing
+ ## Whatsapp Automated messages:
+    
+
+   
+
+   
+
+   
 
    
 
