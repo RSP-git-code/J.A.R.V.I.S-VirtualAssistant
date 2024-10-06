@@ -78,10 +78,6 @@ def jarvis_play():
     elif "who are you" in instructions:
         talk("Hello! I'm JARVIS, your virtual assistant.")
         print("Hello! I'm JARVIS, your virtual assistant.")
-    elif "how are you" in instructions:
-        response = "I am fine. How are you?"
-        talk(response)
-        print(response)
     elif "translate" in instructions:
         from Translator import translate
         instructions=instructions.replace("jarvis","")
