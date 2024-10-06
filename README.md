@@ -75,6 +75,15 @@ pywhatkit
 ![image](https://github.com/user-attachments/assets/96e6f3b1-5b9e-4af4-8195-3b5f7ccf1dbf)
 ![image](https://github.com/user-attachments/assets/92bee17b-c3f3-4acb-ad88-be42b9bae185)
 
+### Wikipedia Information Retrieval
+
+**Note:** The virtual assistant can provide summaries of notable individuals from Wikipedia. 
+
+**Usage:** Simply ask about a person by saying "Who is [Name]?" or typing it in written mode to receive a concise summary.
+## Speech Mode:
+    ![image](https://github.com/user-attachments/assets/8ab1f35a-a3af-4dca-9841-a5ba3393eec0)
+
+    
 
 
 
