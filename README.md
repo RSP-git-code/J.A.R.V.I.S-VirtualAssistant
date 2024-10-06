@@ -35,8 +35,19 @@ pywhatkit
 ![image](https://github.com/user-attachments/assets/989f5d87-6b71-4e77-940e-ea06b293881d)
 ## Playing Youtube videos based on user's Instruction:
 ![image](https://github.com/user-attachments/assets/a61088ed-dc8e-44b4-aa46-197a6e44c127)
-##video
 ![image](https://github.com/user-attachments/assets/0f82a722-56a0-4e2d-b513-37456a271f51)
+## Date and Time:
+ ![image](https://github.com/user-attachments/assets/f76b1af8-5ab1-468b-9951-a6ee179e5a96)
+ ![image](https://github.com/user-attachments/assets/2de8e59a-e609-4341-9c3e-563b98c6b34c)
+## Translation of sentence:
+   for this you  have to import Translator.py and translate function
+   ## english to hindi:
+   ![image](https://github.com/user-attachments/assets/c8382fd6-cbcb-41ee-a178-593ab0d9e69f)
+   --Audio file:C:\Users\RIYA\OneDrive\Desktop\VS Code Quickstart\translated_output.mp3
+
+   
+
+
 
 
 
