@@ -56,8 +56,6 @@ pywhatkit
 **Note:** Users must log in to WhatsApp in web mode and allow a minimum waiting time. Messages can only be sent in written mode. 
 **Messaging to Individuals:** Please provide the recipient's phone number.
 ![image](https://github.com/user-attachments/assets/4926f2cb-f852-4ef6-bc32-22615cd10687)
-
-
 ![image](https://github.com/user-attachments/assets/9f13c217-2a83-4844-9117-b770ee5a3a95)
 
 
