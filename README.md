@@ -1,7 +1,7 @@
 # J.A.R.V.I.S - Your Personal Virtual Assistant
 
 ## Description
-J.A.R.V.I.S is a personal virtual assistant built using Python. It can perform various tasks such as checking the weather, playing music on YouTube, providing information from Wikipedia, sending automated  WhatsApp messages, and more. The assistant can interact with users through speech recognition and text input.
+J.A.R.V.I.S is a personal virtual assistant built using Python. It can perform various tasks such as checking the weather, playing music on YouTube, providing information from Wikipedia, sending automated  WhatsApp messages, and translation of any sentence. The assistant can interact with users through speech recognition and text input.
 
 ## Features
 - **Speech Recognition**: Understands commands spoken by the user.
