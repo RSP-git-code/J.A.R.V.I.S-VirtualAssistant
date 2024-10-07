@@ -26,8 +26,8 @@ J.A.R.V.I.S is a personal virtual assistant built using Python. It can perform v
   - `googletrans` (for translation functionality, if added)
   - API key for weather forecast : https://openweathermap.org/api
 ## Acknowledgements
-OpenWeatherMap
-Wikipedia API
+OpenWeatherMap API
+Wikipedia 
 Google Speech Recognition
 
 pywhatkit
