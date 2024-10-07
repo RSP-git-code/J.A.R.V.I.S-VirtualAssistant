@@ -69,7 +69,7 @@ pywhatkit
 
 ### Messaging to Groups
 
-**Note:** Users must log in to WhatsApp in web mode and allow a minimum waiting time. Messages can only be sent in written mode.
+**Note:** Users must log in to WhatsApp Web and allow a minimum waiting time of at least 30 seconds before sending messages. Messages can only be sent in written mode.
 
 **Messaging to Groups:** Please provide the name of the group you wish to message.
 ![image](https://github.com/user-attachments/assets/96e6f3b1-5b9e-4af4-8195-3b5f7ccf1dbf)
